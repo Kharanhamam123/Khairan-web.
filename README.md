@@ -78,7 +78,7 @@
         <div class="about-container flex s-around ">
             <div class=" about-left flex s-center items-center">
                 <!-- Here in src replade the given link with your secondary image link -->
-                <img src="WhatsApp Image 2023-08-04 at 14.25.47.jpeg" alt="" style="width: 50%;">
+                <img src="https://instagram.fdps5-1.fna.fbcdn.net/v/t51.2885-19/359069561_588581776766689_5467215249730610349_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fdps5-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=hPma8c4OV90AX9u1Bp5&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfC39IVM0y2nU6ooKgC2yYsuv8NCiEGpdJzyj-jqJe2PkA&oe=64D1CC43&_nc_sid=8b3546" alt="" style="width: 50%;">
             </div>
 
             <div class="about-right flex">
